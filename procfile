@@ -1,0 +1,1 @@
+web gunicorn chatting-app-django.wsgi:application --log-file -  
